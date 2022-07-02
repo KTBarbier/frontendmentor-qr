@@ -9,12 +9,12 @@ body {
     background: var(--light-gray);
 }
 
-.content {
+main {
     background: var(--white);
     max-width: 296px;
     display: block;
     margin: 0 auto;
-    margin-top: 65px;
+    margin-top: 120px;
     padding: 12px;
     border-radius: 20px;
     text-align: center;
